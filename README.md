@@ -1,2 +1,1 @@
-# Base-de-Datos-Escolar
-Base de datos de una Institución Educativa
+Estructura de base de datos y modelo entidad-relación basada en el ejercicio de una institución educativa que requiere el desarrollo de un prototipo de sistema de control escolar para la gestión de alumnos, profesores y asignaturas. solicitud. Inicialmente se plantea el siguiente Modelo entidad - relación.
